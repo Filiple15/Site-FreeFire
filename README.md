@@ -4,7 +4,7 @@ Um site dedicado ao jogo **Free Fire**, reunindo informações sobre sua histór
 
 ---
 
-## 🌐 Link do site do projeto
+##  🌐 Link para acessar o Site:
 
 ```bash
 https://filiple15.github.io/Site-FreeFire/
