@@ -43,8 +43,8 @@ O site é **responsivo** e adaptado para diferentes dispositivos, garantindo uma
 
 ## 🌟 Tecnologias Utilizadas
 
-- **HTML5** – Estrutura semântica do site.  
-- **CSS3** – Estilização, responsividade, efeitos visuais e tipografia.  
+- **HTML** – Estrutura semântica do site.  
+- **CSS** – Estilização, responsividade, efeitos visuais e tipografia.  
 - **JavaScript** – Funcionalidades dinâmicas como carrosséis e interações.  
 - **Font Awesome** – Ícones representativos para seções e conteúdos.  
 - **YouTube Embed** – Exibição de vídeos e trailers do jogo.  
