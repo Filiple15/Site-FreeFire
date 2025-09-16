@@ -9,6 +9,10 @@ Um site dedicado ao jogo **Free Fire**, reunindo informações sobre sua histór
 ```bash
 https://filiple15.github.io/Site-FreeFire/
 ```
+<a href="https://filiple15.github.io/Site-FreeFire/" target="_blank">
+  Abrir site
+</a>
+
 ---
 
 ## 🎮 Sobre o Projeto
